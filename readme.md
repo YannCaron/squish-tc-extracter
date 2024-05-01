@@ -1,4 +1,4 @@
-# squish-tc-extract
+# squish-tc-extracter
 
 ## install
 
