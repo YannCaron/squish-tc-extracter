@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "types": [
+        "node",
+        "jest"
+      ],
+      "module": "commonjs",
+      "target": "es2016",
+      "declaration": true,
+      "outDir": "dist/",
+      /* Linting */
+      "strict": true
+    },
+    "include": [
+      "src/**/*",
+      "index.ts"
+    ],
+    "exclude": [
+      "node_modules",
+      "test/**/*",
+      "dist/**/*"
+    ]
+  }
