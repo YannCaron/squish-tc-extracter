@@ -23,6 +23,11 @@
     "squing",
     "javaFx"
   ],
+  "nodemonConfig": {
+    "ignore": [
+      "generated/package.json"
+    ]
+  },
   "author": "Yann Caron",
   "license": "ISC",
   "bugs": {
